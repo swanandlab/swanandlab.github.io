@@ -1,3 +1,23 @@
-theme: jekyll-theme-minimal
+author: Created by - Kushaan Gupta
 title: SWANAND LAB @ IISC
-description: Centre for Neuroscience, Indian Institute of Science, Bangalore, India 560012
+theme: minima
+description: >
+  Swanand Lab, Centre for Neuroscience, Indian Institute of Science, Bangalore,
+  India, 560012.
+
+header_pages:
+  - team.md
+  - research.md
+  - publications.md
+  - careers.md
+  - news.md
+
+
+email: swanand@iisc.ac.in
+# social links
+twitter_username: LabSwanand
+github_username:  swanandlab
+scholar: PRwLoqkAAAAJ
+orcid: 0000-0002-2539-366X
+
+show_excerpts: true
