@@ -10,6 +10,9 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+        {% if page.twitter-timeline %}
+          {% include modules/twitter-timeline/twitter-timeline.html %}
+        {% endif %}
       </div>
     </main>
 

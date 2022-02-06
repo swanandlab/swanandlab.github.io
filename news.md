@@ -2,6 +2,13 @@
 layout: page
 title: Lab News
 permalink: /news/
+twitter-timeline:
+  name: LabSwanand
+  width: "auto"
+  height: "auto"
+  chrome: nofooter noscrollbar noborders transparent
+  tweet_limit: 3
+  inject_js: true
 ---
 
 - January 2017: Swanand receives Inspire faculty award from DST
