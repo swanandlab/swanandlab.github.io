@@ -13,6 +13,14 @@ header_pages:
   - publications.md
   - careers.md
   - news.md
+  - search.md
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.md]
 
 # networking
 email: swanand@iisc.ac.in
