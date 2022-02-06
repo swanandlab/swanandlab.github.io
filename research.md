@@ -2,7 +2,11 @@
 layout: page
 title: Research
 permalink: /research/
+image_sliders:
+  - splash_slider
 ---
+
+{% include slider.html selector="splash_slider" %}
 
 Current Projects:
 - Effects of Stress hormones on astrocyte physiology

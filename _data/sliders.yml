@@ -1,0 +1,23 @@
+- selector: splash_slider
+  bullets: true
+  captions: true
+  images:
+    - src: /images/splash1.jpg
+      title: DBscorer
+      alt: >
+        An Open-Source Software for Automated Accurate Analysis of Rodent
+        Behavior in Forced Swim Test & Tail Suspension Test
+    - src: /images/splash2.jpg
+      title: Hippocampus trisynaptic loop
+      alt: >
+        Subfield-specific effects of chronic mild unpredictable stress on
+        hippocampal astrocytes
+    - src: /images/splash3.png
+      title: Astrocytes
+      alt: >
+        Automated morphometric analysis with SMorph software reveals
+        plasticity induced by antidepressant therapy in hippocampal
+        astrocytes
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
