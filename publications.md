@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 - Arnab Nandi, Garima Virmani, Swananda Marathe, (2021), Hippocampal astroglial hypertrophy in mice subjected to early life maternal deprivation, bioRxiv
-- Arnab Nandi, Garima Virmani, Aatmika Barve, Swananda Marathe, (2021), DBscorer: an open source software for automated accurate analysis of rodent behavior in forced swim test and tail suspension test, eNeuro
+- Arnab Nandi, Garima Virmani, Aatmika Barve, Swananda Marathe, (2021), DBscorer: an open source software for automated accurate analysis of rodent behavior in forced swim test and tail suspension test, [eNeuro](https://www.eneuro.org/content/8/6/ENEURO.0305-21.2021)
 - Sethi P, Virmani G, Gupta K, Thumu SCR, Ramanan N, Marathe S., (2021), Automated morphometric analysis with SMorph software reveals plasticity induced by antidepressant therapy in hippocampal astrocytes, Journal of Cell Science, 134(12), jcs258430
 - Garima Virmani, Priyal D’almeida, Arnab Nandi, Swananda Marathe, (2021), Subfield-specific Effects of Chronic Mild Unpredictable Stress on Hippocampal Astrocytes, European Journal of Neuroscience, April
 - Marathe S#, D'almeida PL, Virmani G, Bathini P, Alberi L, (2018), Effects of Monoamines and Antidepressants on Astrocyte Physiology: Implications for Monoamine Hypothesis of Depression, Journal of Experimental Neuroscience
